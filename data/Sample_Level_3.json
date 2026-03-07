@@ -1,1 +1,17 @@
-
+{
+    "id": 131167035,
+    "name": "level3",
+    "author": "kurtiscoool",
+    "creators": ["kurtiscoool"],
+    "verifier": "kurtiscoool",
+    "verification": "https://youtu.be/KRPmBhUkgEg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Test",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
