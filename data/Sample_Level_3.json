@@ -1,17 +1,14 @@
 {
-    "id": 131167035,
-    "name": "level3",
+    "id": 135181930,
+    "name": "Wellscapes",
     "author": "kurtiscoool",
     "creators": ["kurtiscoool"],
     "verifier": "kurtiscoool",
-    "verification": "https://youtu.be/KRPmBhUkgEg",
+    "verification": "https://youtu.be/9Kx9ojDxHAE",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Test",
-            "link": "",
-            "percent": 100,
-            "hz": 360
+          
         }
     ]
 }
