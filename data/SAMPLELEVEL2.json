@@ -1,17 +1,14 @@
 {
-    "id": 131167035,
-    "name": "Level2",
+    "id": 130515639,
+    "name": "Spam Level",
     "author": "kurtiscoool",
     "creators": ["kurtiscoool"],
     "verifier": "kurtiscoool",
-    "verification": "https://youtu.be/KRPmBhUkgEg",
+    "verification": "https://youtu.be/y6kfSwJvEqg",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Test",
-            "link": "",
-            "percent": 100,
-            "hz": 360
+           
         }
     ]
 }
